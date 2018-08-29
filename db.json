@@ -81,4 +81,69 @@
             "productId":3
             }  
         ]
+       "customers": [
+            {
+            "id": 1,
+            "name": "customer001",
+            "cost": 10.0,
+            "locationId" : 1,
+            "Address" : "abc"
+            },
+            {
+            "id": 2,
+            "name": "customer002",
+            "cost": 20.0,
+            "locationId" : 1,
+            "Address" : "abc"
+            },   
+            {
+            "id": 3,
+            "name": "customer003",
+            "cost": 30.0,
+            "locationId" : 3,
+             "Address" : "abc"     
+            },
+            {
+            "id": 4,
+            "name": "customer004",
+            "cost": 40.0,
+            "locationId" : 2,
+             "Address" : "abc"
+            }
+        ],
+        "locations":[
+            {
+            "id": 1,
+            "name": "Location001"
+            },
+            {
+            "id": 2,
+            "name": "Location002"
+            },
+            {
+            "id": 3,
+            "name": "Location003"
+            }
+        ],
+         "transactions":[
+            {
+            "id": 1,
+            "cost":11,
+            "quantity":10,
+            "customerId":1
+            },
+            {
+            "id": 2,
+            "cost":12,
+            "quantity":100,
+            "customerId":2
+            },    
+            {
+            "id": 3,
+            "cost":15,
+            "quantity":101,
+            "customerId":3
+            }  
+        ]
+
         }
