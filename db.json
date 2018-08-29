@@ -1,34 +1,32 @@
 {
- 
-           
-          "customers": [
+"customers": [
             {
             "id": 1,
-            "name": "customer001",
-            "cost": 10.0,
-            "locationId" : 1,
+            "Firstname": "John",
+            "Lastname":"Doe",
+            "Email":"john@example.com",
             "Address" : "abc"
             },
             {
             "id": 2,
-            "name": "customer002",
-            "cost": 20.0,
-            "locationId" : 1,
+            "Firstname": "Mary",
+            "Lastname":"Moe",
+            "Email":"john@example.com",
             "Address" : "abc"
             },   
             {
             "id": 3,
-            "name": "customer003",
-            "cost": 30.0,
-            "locationId" : 3,
+            "Firstname": "July",
+            "Lastname":"Dooley",
+            "Email":"Mary@example.com",
              "Address" : "abc"     
             },
             {
             "id": 4,
-            "name": "customer004",
-            "cost": 40.0,
-            "locationId" : 2,
+            "Firstname": "Maitri",
+            "Lastname":"Patel",
+            "Email":"Maitri@gmail.com",
              "Address" : "abc"
             }
         ]
-       }
+}
