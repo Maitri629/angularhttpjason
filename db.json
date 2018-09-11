@@ -7,7 +7,8 @@
             "Email":"john@example.com",
             "Address" : "abc",
             "CustomerCode" : "co 123",
-                        "StarRating":5
+                        "StarRating":5,
+                        "Order":{abc,ttc}
             },
             {
             "id": 2,
@@ -16,7 +17,8 @@
             "Email":"john@example.com",
             "Address" : "abc",
              "CustomerCode" : "co 111",
-                        "StarRating":2
+                        "StarRating":2,
+                         "Order":{hht}
             },   
             {
             "id": 3,
@@ -25,7 +27,8 @@
             "Email":"Mary@example.com",
              "Address" : "abc" , 
              "CustomerCode" : "co 323",
-                        "StarRating":4
+                        "StarRating":4,
+                         "Order":{ooi,ttc}
             },
             {
             "id": 4,
