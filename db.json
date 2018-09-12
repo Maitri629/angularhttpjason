@@ -8,7 +8,8 @@
             "Address" : "abc",
             "CustomerCode" : "co 123",
             "StarRating":5,
-            "Order":[{"OrderNo":"1","ProductId":2,"ProductName":"abc","Price":10,"Quantity":2}]
+            "Order":[{"OrderNo":"1","OrderDetail":[{"ProductId":2,"ProductName":"abc","Price":10,"Quantity":2}],
+                      "ShipAddress":"abc","ShipCity":"abc11","ShipPostalCode":1123}]
             },
       {
          "id":2,
