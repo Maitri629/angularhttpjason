@@ -5,42 +5,44 @@
             "Firstname": "John",
             "Lastname":"Doe",
             "Email":"john@example.com",
-            "Address" : "abc",
+            "Address" : "2575  Twin House Lane Springfield,Missouri",
             "CustomerCode" : "co 123",
             "StarRating":5,
             "Order":[{"OrderNo":"1","OrderDetail":[{"ProductId":2,"ProductName":"abc","Price":10,"Quantity":2}],
-                      "ShipAddress":"abc","ShipCity":"abc11","ShipPostalCode":1123}]
+                      "ShipAddress":"2575  Twin House Lane,Springfield","ShipCity":"Missouri","ShipPostalCode":65802}]
             },
       {
          "id":2,
          "Firstname":"Mary",
          "Lastname":"Moe",
          "Email":"john@example.com",
-         "Address":"abc",
+         "Address":"3006  Perry Street Davison,Michigan",
          "CustomerCode":"co 111",
          "StarRating":2,
           "Order":[{"OrderNo":"2","OrderDetail":[{"ProductId":5,"ProductName":"abc5","Price":100,"Quantity":1}],
-                      "ShipAddress":"abc","ShipCity":"abc11","ShipPostalCode":1123}]
+                      "ShipAddress":"3006  Perry Street,Davison","ShipCity":"Michigan","ShipPostalCode":48423}]
       },
       {
          "id":3,
          "Firstname":"July",
          "Lastname":"Dooley",
          "Email":"Mary@example.com",
-         "Address":"abc",
+         "Address":"450 Rockledge St. Metairie,Los Angels",
          "CustomerCode":"co 323",
          "StarRating":4,
-         "Order":[{"OrderNo":"3","ProductId":4,"ProductName":"abc4","Price":300,"Quantity":4}]
+         "Order":[{"OrderNo":"3","OrderDetail":[{"ProductId":4,"ProductName":"abc4","Price":300,"Quantity":4}],
+                      "ShipAddress":"450 Rockledge St,Metairie","ShipCity":"Los Angels","ShipPostalCode":70001}]
       },
       {
          "id":4,
          "Firstname":"Maitri",
          "Lastname":"Patel",
          "Email":"Maitri@gmail.com",
-         "Address":"abc",
+         "Address":"692 West Ave.Bellmore,New York",
          "CustomerCode":"co 345",
          "StarRating":3,
-         "Order":[{"OrderNo":"4","ProductId":7,"ProductName":"abc7","Price":950,"Quantity":3}]
+         "Order":[{"OrderNo":"4","OrderDetail":[{"ProductId":7,"ProductName":"abc7","Price":950,"Quantity":3}],
+                      "ShipAddress":"692 West Ave.Bellmore","ShipCity":"New York","ShipPostalCode":11710}]    
       }
    ]
 }
