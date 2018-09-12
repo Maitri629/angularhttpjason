@@ -19,7 +19,8 @@
          "Address":"abc",
          "CustomerCode":"co 111",
          "StarRating":2,
-          "Order":[{"OrderNo":"2","ProductId":5,"ProductName":"abc5","Price":100,"Quantity":1}]
+          "Order":[{"OrderNo":"2","OrderDetail":[{"ProductId":5,"ProductName":"abc5","Price":100,"Quantity":1}],
+                      "ShipAddress":"abc","ShipCity":"abc11","ShipPostalCode":1123}]
       },
       {
          "id":3,
