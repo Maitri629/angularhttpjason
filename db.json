@@ -1,18 +1,15 @@
 {
    "customers":[
-      {
-         "id":1,
-         "Firstname":"John",
-         "Lastname":"Doe",
-         "Email":"john@example.com",
-         "Address":"abc",
-         "CustomerCode":"co 123",
-         "StarRating":5,
-         "Order":[
-            "abc",
-            "ttc"
-         ]
-      },
+       {
+            "id": 1,
+            "Firstname": "John",
+            "Lastname":"Doe",
+            "Email":"john@example.com",
+            "Address" : "abc",
+            "CustomerCode" : "co 123",
+                        "StarRating":5,
+                        "Order":[{"ProductName":"abc","Price":"10"}]
+            },
       {
          "id":2,
          "Firstname":"Mary",
