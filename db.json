@@ -9,6 +9,8 @@
             "CustomerCode" : "co 123",
             "StarRating":5,
             "Order":[{"OrderNo":"1","OrderDetail":[{"ProductId":2,"ProductName":"abc","Price":10,"Quantity":2}],
+                      "ShipAddress":"2575  Twin House Lane,Springfield","ShipCity":"Missouri","ShipPostalCode":65802},
+                    {"OrderNo":"6","OrderDetail":[{"ProductId":2,"ProductName":"abc","Price":10,"Quantity":2}],
                       "ShipAddress":"2575  Twin House Lane,Springfield","ShipCity":"Missouri","ShipPostalCode":65802}]
             },
       {
