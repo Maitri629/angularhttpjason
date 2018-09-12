@@ -1,44 +1,55 @@
 {
-"customers": [
-            {
-            "id": 1,
-            "Firstname": "John",
-            "Lastname":"Doe",
-            "Email":"john@example.com",
-            "Address" : "abc",
-            "CustomerCode" : "co 123",
-                        "StarRating":5,
-                        "Order":["abc","ttc"]
-            },
-            {
-            "id": 2,
-            "Firstname": "Mary",
-            "Lastname":"Moe",
-            "Email":"john@example.com",
-            "Address" : "abc",
-             "CustomerCode" : "co 111",
-                        "StarRating":2,
-                         "Order":["hht"]
-            },   
-            {
-            "id": 3,
-            "Firstname": "July",
-            "Lastname":"Dooley",
-            "Email":"Mary@example.com",
-             "Address" : "abc" , 
-             "CustomerCode" : "co 323",
-                        "StarRating":4,
-                         "Order":["ooi","ttc"]
-            },
-            {
-            "id": 4,
-            "Firstname": "Maitri",
-            "Lastname":"Patel",
-            "Email":"Maitri@gmail.com",
-             "Address" : "abc",
-             "CustomerCode" : "co 345",
-                        "StarRating":3,
-                         "Order":["i99","iu8"]
-            }
-        ]
+   "customers":[
+      {
+         "id":1,
+         "Firstname":"John",
+         "Lastname":"Doe",
+         "Email":"john@example.com",
+         "Address":"abc",
+         "CustomerCode":"co 123",
+         "StarRating":5,
+         "Order":[
+            "abc",
+            "ttc"
+         ]
+      },
+      {
+         "id":2,
+         "Firstname":"Mary",
+         "Lastname":"Moe",
+         "Email":"john@example.com",
+         "Address":"abc",
+         "CustomerCode":"co 111",
+         "StarRating":2,
+         "Order":[
+            "hht"
+         ]
+      },
+      {
+         "id":3,
+         "Firstname":"July",
+         "Lastname":"Dooley",
+         "Email":"Mary@example.com",
+         "Address":"abc",
+         "CustomerCode":"co 323",
+         "StarRating":4,
+         "Order":[
+            "ooi",
+            "ttc"
+         ]
+      },
+      {
+         "id":4,
+         "Firstname":"Maitri",
+         "Lastname":"Patel",
+         "Email":"Maitri@gmail.com",
+         "Address":"abc",
+         "CustomerCode":"co 345",
+         "StarRating":3,
+         "Order":[
+            "i99",
+            "iu8"
+         ]
+      }
+   ]
 }
