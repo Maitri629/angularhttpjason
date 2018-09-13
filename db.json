@@ -34,7 +34,6 @@
          "Order":[
             {
                "OrderNo":"2",
-              
                "ShipAddress":"3006  Perry Street,Davison",
                "ShipCity":"Michigan",
                "ShipPostalCode":48423
@@ -52,8 +51,6 @@
          "Order":[
             {
                "OrderNo":"3",
-               
-               ],
                "ShipAddress":"450 Rockledge St,Metairie",
                "ShipCity":"Los Angels",
                "ShipPostalCode":70001
@@ -71,7 +68,6 @@
          "Order":[
             {
                "OrderNo":"4",
-               
                "ShipAddress":"692 West Ave.Bellmore",
                "ShipCity":"New York",
                "ShipPostalCode":11710
